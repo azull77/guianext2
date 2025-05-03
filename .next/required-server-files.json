@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\Kaseres\\Music\\nestPruebas",
+    "outputFileTracingRoot": "C:\\Users\\Kaseres\\Music\\nestPruebas - copia - copia",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -279,10 +279,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\Kaseres\\Music\\nestPruebas"
+      "root": "C:\\Users\\Kaseres\\Music\\nestPruebas - copia - copia"
     }
   },
-  "appDir": "C:\\Users\\Kaseres\\Music\\nestPruebas",
+  "appDir": "C:\\Users\\Kaseres\\Music\\nestPruebas - copia - copia",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

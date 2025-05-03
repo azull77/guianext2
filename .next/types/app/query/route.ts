@@ -1,4 +1,4 @@
-// File: C:\Users\Kaseres\Music\nestPruebas\app\query\route.ts
+// File: C:\Users\Kaseres\Music\nestPruebas - copia - copia\app\query\route.ts
 import * as entry from '../../../../app/query/route.js'
 import type { NextRequest } from 'next/server.js'
 
